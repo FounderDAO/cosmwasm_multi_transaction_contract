@@ -1,0 +1,1 @@
+f4a48ab8db853533222ec43307f18ce0f98e8e233defaff892e4b816f61ec52f  smart_contract_pro.wasm
