@@ -12,7 +12,7 @@ docker run --rm -v "$(pwd)":/code \
 ```sh
 ['DEPLOY MULTI TRANSACTION']
 
-wasmd tx wasm store ./artifacts/transfer_contract.wasm --chain-id wasmd --gas 7000000 --from alice
+wasmd tx wasm store ./artifacts/smart_contract_pro.wasm --chain-id wasmd --gas 7000000 --from alice
 
 ```
 
